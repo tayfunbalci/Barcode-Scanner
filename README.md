@@ -1,2 +1,2 @@
-# Barcode-Scanner
-Barcode Scanner For Google Flutter
+# Barcode Scanner
+A flutter plugin for scanning 2D barcodes and QR codes.
